@@ -1,0 +1,15 @@
+package ch05_class1;
+// 학생 클래스
+public class Student {
+    int studentID; // 학번
+    private String studentName; // 학생이름
+    int grade;// 학년
+    String address; // 학생 주소
+
+    public String getStudentName(){
+        return studentName;
+    }
+    public void setStudentName(String studentName){
+        this.studentName = studentName;
+    }
+}
