@@ -1,0 +1,15 @@
+# Java
+*.class
+
+# IDE (Eclipse)
+.project
+.classpath
+.settings/
+
+# IDE (IntelliJ)
+.idea/
+*.iml
+out/
+
+# IDE (VS Code)
+.vscode/
